@@ -1,9 +1,13 @@
 # Guide Avancé du Multicast DNS (mDNS)
 
+<img width="1248" height="832" alt="OIG4" src="https://github.com/user-attachments/assets/b87f28b4-85da-4aeb-b921-ffc6156882b7" />
+
+
+
 **Auteur : Hackers_tchad**  
 **Version : 1.0**  
 **Licence : MIT / Libre diffusion pour la communauté**  
-**Dernière mise à jour : 2025**
+**Dernière mise à jour : 2026**
 
 ---
 
